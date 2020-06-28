@@ -11,4 +11,5 @@
 
 ## PROJETOS
 
-* **Acidentes de trânsito fatais no Estado de São Paulo (2015-2020):** https://bit.ly/3d9ybij
+* **Acidentes de trânsito fatais no Estado de São Paulo (2015-2020):** https://tinyurl.com/y8avgnqe
+* **Quando as tecnologias encontram as políticas públicas:** https://tinyurl.com/y9ymo3y4
