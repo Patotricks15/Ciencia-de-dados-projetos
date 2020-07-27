@@ -26,11 +26,11 @@ Quem são as maiores vítimas? (Gênero, idade, tipo de vítima e veículo em qu
 
 Onde esses acidentes costumam acontecer? (Concentração geográfica; rodovias X vias municipais)
 
-* **QUANDO?
+* **QUANDO?**
 
 Quando esses acidentes costumam ocorrer? (Mês, dia da semana e turnos do dia)
 
-* **COMO?
+* **COMO?**
 
 De que forma acontecem esses acidentes? (Envolvimento de outros veículos e tipo de acidente)
 
