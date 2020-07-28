@@ -37,5 +37,6 @@ De que forma acontecem esses acidentes? (Envolvimento de outros veículos e tipo
 Entender essas 4 perguntas é o primeiro passo para que a sociedade possa reivindicar políticas públicas que reduzam o número de acidentes fatais, e para que os governantes possam nos oferecer tais políticas públicas.
 
 ### Quando as tecnologias encontram as políticas públicas:
-https://tinyurl.com/y9ymo3y4
+Link: https://tinyurl.com/y9ymo3y4
+
   O objetivo desse trabalho é mostrar como as tecnologias são capazes de auxiliar os governos a entender como funcionam suas estruturas sociais, e ajudar a população a se previnir, tendo uma ideia de quão perigoso pode ser um determinado local. Utilizando a plataforma Onde fui roubado?, analisaremos a criminalidade em São Paulo (com dados até o início de 2018).
