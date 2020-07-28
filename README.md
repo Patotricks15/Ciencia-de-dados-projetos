@@ -17,7 +17,7 @@ Link: https://tinyurl.com/y8avgnqe
 Base de dados: http://www.respeitoavida.sp.gov.br/relatorios/
 
 #### Resumo
-  A mobilidade urbana é um tema muito discutido e sempre atual e dentre os inúmeros desafios sociais e culturais enfrentados pela sociedade brasileira, os acidentes de trânsito são uns dos mais significativos, uma vez que coloca em risco a vida do condutor do veículo, e também de pedestres e passageiros, o que aumenta radicalcamente o número de vítimas. Portanto, é fundamental que o poder público e a sociedade civil estejam atentos para as causas e consequências dessa triste realidade. Desse modo, esse projeto visa explorar os dados sobre acidentes fatais em SP desde 2015 até 2020, pois um dos problemas que o Estado de São Paulo lida é o elevado número de acidentes de trânsito. Aqui busco responder as seguintes perguntas:
+  A mobilidade urbana é um tema muito discutido e sempre atual e dentre os inúmeros desafios sociais e culturais enfrentados pela sociedade brasileira, os acidentes de trânsito são uns dos mais significativos, uma vez que coloca em risco a vida do condutor do veículo, e também de pedestres e passageiros, o que aumenta radicalcamente o número de vítimas. Portanto, é fundamental que o poder público e a sociedade civil estejam atentos para as causas e consequências dessa triste realidade. Desse modo, esse projeto visa explorar os dados sobre acidentes fatais em SP desde 2015 até 2020, pois um dos problemas que o Estado de São Paulo lida é o elevado número de acidentes de trânsito. Aqui busco responder perguntas essenciais para que a sociedade possa reivindicar políticas públicas que reduzam o número de acidentes fatais, e para que os governantes possam nos oferecer tais políticas públicas. São elas:
 
 * **QUEM?**
 
@@ -35,8 +35,10 @@ Quando esses acidentes costumam ocorrer? (Mês, dia da semana e turnos do dia)
 
 De que forma acontecem esses acidentes? (Envolvimento de outros veículos e tipo de acidente)
 
-Entender essas 4 perguntas é o primeiro passo para que a sociedade possa reivindicar políticas públicas que reduzam o número de acidentes fatais, e para que os governantes possam nos oferecer tais políticas públicas.
 
+*“Se houver uma falha humana, tanto a rodovia, quanto o veículo, eles estão ali para auxiliar e mitigar a lesão fatal ao ocupante. Se nós não trabalharmos a questão da educação, do comportamento da sociedade, nós vamos continuar a ter taxas elevadas de mortes no trânsito”, afirma José Aurélio Ramalho.*
+
+_________________________________________________________________________________________________________________________________________________________________________________
 ### Quando as tecnologias encontram as políticas públicas:
 Link: https://tinyurl.com/y9ymo3y4
 
@@ -51,3 +53,5 @@ Link: https://tinyurl.com/y9ymo3y4
 * **Onde** foi roubado? (Bairros)
 
 * **Quando** foi roubado? (Ano, mês e dia do mês)
+
+*“Inovação não é feita apenas usando tecnologia. A tecnologia pode ser um meio, mas ver e transformar um jeito de fazer algo, mudar a forma como encaramos desafios, tudo isso pode ser visto e feito de forma inovadora.” - Gustavo Maia*
