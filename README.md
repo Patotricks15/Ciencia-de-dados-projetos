@@ -16,7 +16,7 @@ Link: https://tinyurl.com/y8avgnqe
 
 Base de dados: http://www.respeitoavida.sp.gov.br/relatorios/
 
-A mobilidade urbana é um tema muito discutido e sempre atual, e esse projeto visa explorar os dados sobre acidentes fatais em SP, pois um dos problemas que a mobilidade urbana lida é o alto número de acidentes de trânsito. Aqui busco responder as seguintes perguntas:
+  A mobilidade urbana é um tema muito discutido e sempre atual e dentre os inúmeros desafios sociais e culturais enfrentados pela sociedade brasileira, os acidentes de trânsito são uns dos mais significativos, uma vez que coloca em risco a vida do condutor do veículo, e também de pedestres e passageiros, o que aumenta radicalcamente o número de vítimas. Portanto, é fundamental que o poder público e a sociedade civil estejam atentos para as causas e consequências dessa triste realidade. Desse modo, esse projeto visa explorar os dados sobre acidentes fatais em SP desde 2015 até 2020, pois um dos problemas que o Estado de São Paulo lida é o elevado número de acidentes de trânsito. Aqui busco responder as seguintes perguntas:
 
 * **QUEM?**
 
@@ -38,3 +38,4 @@ Entender essas 4 perguntas é o primeiro passo para que a sociedade possa reivin
 
 ### Quando as tecnologias encontram as políticas públicas:
 https://tinyurl.com/y9ymo3y4
+  O objetivo desse trabalho é mostrar como as tecnologias são capazes de auxiliar os governos a entender como funcionam suas estruturas sociais, e ajudar a população a se previnir, tendo uma ideia de quão perigoso pode ser um determinado local. Utilizando a plataforma Onde fui roubado?, analisaremos a criminalidade em São Paulo (com dados até o início de 2018).
