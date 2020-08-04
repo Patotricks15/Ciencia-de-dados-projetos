@@ -9,7 +9,7 @@
   O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas e visualizações de gráficos
 
 
-## PROJETOS
+## PROJETOS REAIS
 
 ### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020):
 Link: https://tinyurl.com/y8avgnqe
@@ -55,3 +55,15 @@ Link: https://tinyurl.com/y9ymo3y4
 * **Quando** foi roubado? (Ano, mês e dia do mês)
 
 *“Inovação não é feita apenas usando tecnologia. A tecnologia pode ser um meio, mas ver e transformar um jeito de fazer algo, mudar a forma como encaramos desafios, tudo isso pode ser visto e feito de forma inovadora.” - Gustavo Maia*
+
+## PROJETOS DE TREINO
+
+### Medidas e medalhas de atletas e países nos principais esportes dos Jogos Olímpicos no Rio 2016
+Link: https://tinyurl.com/y3kf8c7f
+#### Resumo
+Uma breve análise sobre dados dos atletas e países nos Jogos Olímpicos de 2016, investigando altura, peso, gênero e nacionalidade, além das medalhas carregadas.
+_________________________________________________________________________________________________________________________________________________________________________________
+### [TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)
+Link: https://tinyurl.com/y3cg9azc
+#### Resumo
+Um breve tutorial onde ensino a plotar belos, fáceis e usuais gráficos de contagem através do conjunto de dados de venda de video-games.
