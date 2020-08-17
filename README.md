@@ -9,7 +9,7 @@
   O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas e visualizações de gráficos
 
 
-## PROJETOS REAIS
+## PROJETOS
 
 ### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020):
 Link: https://tinyurl.com/y8avgnqe
@@ -29,13 +29,18 @@ Link: https://tinyurl.com/y9ymo3y4
   O objetivo desse trabalho é mostrar como as tecnologias são capazes de auxiliar os governos a entender como funcionam suas estruturas sociais, e ajudar a população a se previnir, tendo uma ideia de quão perigoso pode ser um determinado local. Utilizando a plataforma *Onde fui roubado?*, analisaremos a criminalidade em São Paulo (com dados até o início de 2018). Busco responder as seguintes perguntas:
   
 *“Inovação não é feita apenas usando tecnologia. A tecnologia pode ser um meio, mas ver e transformar um jeito de fazer algo, mudar a forma como encaramos desafios, tudo isso pode ser visto e feito de forma inovadora.” - Gustavo Maia*
+________________________________________________________________________________________________________________________________________________________________________________
 
 ### Medidas e medalhas de atletas e países nos principais esportes dos Jogos Olímpicos no Rio 2016
 Link: https://tinyurl.com/y3kf8c7f
-
 #### Resumo
 Uma breve análise sobre dados dos atletas e países nos Jogos Olímpicos de 2016, investigando altura, peso, gênero e nacionalidade, além das medalhas carregadas.
 _________________________________________________________________________________________________________________________________________________________________________________
+### How can health care be good for your budget?
+Link: https://tinyurl.com/y3o2tc73
+
+### Análise da taxa de suicídio no Brasil (1985 - 2015)
+Link: https://tinyurl.com/yxq6x7y8
 
 ## Tutoriais
 
