@@ -12,16 +12,16 @@
 ## PROJETOS
 
 ### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020):
-Link: https://tinyurl.com/y8avgnqe
+Link: https://tinyurl.com/y2kvmyfl
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Quando as tecnologias encontram as políticas públicas:
-Link: https://tinyurl.com/y9ymo3y4
+Link: https://tinyurl.com/y5g84y59
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### Medidas e medalhas de atletas e países nos principais esportes dos Jogos Olímpicos no Rio 2016
-Link: https://tinyurl.com/y3kf8c7f
+Link: https://tinyurl.com/y44j6xmp
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### How can health care be good for your budget?
