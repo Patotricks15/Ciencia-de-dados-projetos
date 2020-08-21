@@ -39,7 +39,7 @@ Link:
 
 (Tutorial) https://tinyurl.com/y6jr4raj
 
-(Script)
+(Script) https://tinyurl.com/y6cfylj6
 
 (App web com Streamlit) -- Em construção --
 
