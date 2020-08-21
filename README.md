@@ -34,6 +34,16 @@ Link: https://tinyurl.com/y6axt6n6
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
+### Sistema de recomendação de animes
+Link:
+
+(Tutorial) https://tinyurl.com/y6jr4raj
+
+(Script)
+
+(App web com Streamlit) -- Em construção --
+
+
 ## Tutoriais
 
 ### [TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)
