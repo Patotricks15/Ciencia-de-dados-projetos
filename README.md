@@ -39,7 +39,7 @@ ________________________________________________________________________________
 ### Sistema de recomendação de animes
 Link:
 
-(Tutorial) https://tinyurl.com/y6jr4raj
+(Tutorial) https://tinyurl.com/y5n5jk62
 
 (Script) https://tinyurl.com/y6cfylj6
 
