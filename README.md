@@ -43,12 +43,11 @@ Link:
 
 (Script) https://tinyurl.com/y6cfylj6
 
-(App web com Streamlit) -- Em construção --
-
+__________________________________________________________________________________________________________________________________________________________________________________
 ### Produtividade e educação na era dos aplicativos
--- Em andamento --
+Link: https://tinyurl.com/yy9zg7bz
 
-## Tutoriais
-
+_________________________________________________________________________________________________________________________________________________________________________________
 ### [TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)
 Link: https://tinyurl.com/y3cg9azc
+
