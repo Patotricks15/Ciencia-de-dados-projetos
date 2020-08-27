@@ -14,7 +14,7 @@
 ## PROJETOS
 
 ### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
-Link: https://tinyurl.com/yyjgc5de
+Link: https://tinyurl.com/y36zhsgo
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Quando as tecnologias encontram as políticas públicas:
@@ -23,25 +23,21 @@ Link: https://tinyurl.com/y5g84y59
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ### Medidas e medalhas de atletas e países nos principais esportes dos Jogos Olímpicos no Rio 2016
-Link: https://tinyurl.com/y44j6xmp
+Link: https://tinyurl.com/y4mmb696
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### How can health care be good for your budget?
-Link: https://tinyurl.com/y3q6xpz2
+Link: https://tinyurl.com/y5vb887a
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Análise da taxa de suicídio no Brasil (1985 - 2015)
-Link: https://tinyurl.com/y6axt6n6
+Link: https://tinyurl.com/y53xluc9
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Sistema de recomendação de animes
-Link:
-
-(Tutorial) https://tinyurl.com/y5n5jk62
-
-(Script) https://tinyurl.com/y6cfylj6
+Link: https://tinyurl.com/y3spkayp
 
 __________________________________________________________________________________________________________________________________________________________________________________
 ### Produtividade e educação na era dos aplicativos
