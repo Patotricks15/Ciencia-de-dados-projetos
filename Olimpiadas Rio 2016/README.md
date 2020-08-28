@@ -11,6 +11,7 @@ Explorar o conjunto de dados como forma de obter informações sobre os atletas 
 
 ## Metodologia
 Para explorar os dados, foram feitas medidas de distribuições para cada variável analisada, tal como as medidas de tendências centrais.
+
 **Análise Exploratória de Dados (PYTHON)**
 
 ## Conclusão
