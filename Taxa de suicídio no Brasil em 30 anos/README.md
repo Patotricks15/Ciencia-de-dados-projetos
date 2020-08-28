@@ -13,11 +13,11 @@ O Setembro Amarelo é uma campanha criada em 2014, com o intuito de ajudar na pr
 O objetivo desse trabalho é fazer uma análise exploratória dos dados sobre dados de suicídio no Brasil,a fim de descobrir alguma tendência (em relação a idade, gênero, etc) e se determinados fatores econômicos são capazes de frear essa tendência, reduzindo a taxa de suicídio.
 
 # Metodologia
-**Linguagem: PYTHON**
 
-Primeiro, será feita uma comparação da média de suicídio por ano entre o Brasil e o Mundo;
-Depois será feita a análise exploratória dos dados brasileiros
-Depois a comparação com os dados econômicos brasileiros
+Primeiro, será feita uma comparação da média de suicídio por ano entre o Brasil e o Mundo para que possamos observar um panorama geral na taxa de suicídios ao longo dos anos.
+Depois focaremos a análise exploratória nos dados brasileiros, investigando o perfil das vítimas. E por último, analisar os dados econômicos com a evolução da taxa de suicídio
+
+**Análise Exploratória de Dados (PYTHON)**
 
 # Conclusão
 Estudar temas como o suicídio nos ajuda a entender a relação das pessoas com a orópria vida, e perceber que não é um assunto tão simples. Analisar a tendência mundial e nacional é muito diferente de entender o que leva uma pessoa a cometer suicídio, não são apenas dados que nos dizem alguma coisa, não são apenas os insights sobre dados que nos contam histórias. Por trás do tema, existe uma ciência dedicada a estudar o suicídio com uma ótica diferente da Ciência de Dados, da Estatística e da Economia.
