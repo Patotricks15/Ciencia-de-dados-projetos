@@ -7,10 +7,11 @@ Os Jogos Olímpicos datam de 776 a.C. tendo origem em Olímpia (Grécia antiga).
 Os Jogos Olímpicos antigos foram uma série de competições realizadas entre representantes de várias cidades-estado da Grécia antiga, que caracterizou principalmente eventos atléticos, mas também de combate e corridas de bigas.
 
 ## Objetivo
-Explorar o conjunto de dados como forma de obter informações sobre os atletas de cada esporte, comparando altura, peso e medalhas.
+Explorar o conjunto de dados como forma de obter informações sobre os atletas de determinados esporte, comparando altura, peso e medalhas, e contextualizar com a história desses esportes.
 
 ## Metodologia
 Para explorar os dados, foram feitas medidas de distribuições para cada variável analisada, tal como as medidas de tendências centrais.
+**Análise Exploratória de Dados (PYTHON)**
 
 ## Conclusão
 Ter informações sobre medida de atletas pode ser importante para verificar como estão distribuídas as variáveis para cada país, quem são os "pontos fora da curva" em cada variável analisada, tal como a diferença entre cada esporte
