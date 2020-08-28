@@ -9,6 +9,8 @@ Ainda no âmbito individual, o suicídio é uma faca de dois gumes porque, por u
 
 O Setembro Amarelo é uma campanha criada em 2014, com o intuito de ajudar na prevenção do suicídio através de campanhas midiáticas, para que esse assunto traga a população para mais perto, a fim de pensar no problema. Afinal, falar sobre esse esse ato extremo torna-se cada vez mais necessário, já que os casos vem aumentando nos últimos anos.
 
+**Palavras-chaves:** Suicídio, Brasil, economia, sociedade
+
 # Objetivo
 O objetivo desse trabalho é fazer uma análise exploratória dos dados sobre dados de suicídio no Brasil,a fim de descobrir alguma tendência (em relação a idade, gênero, etc) e se determinados fatores econômicos são capazes de frear essa tendência, reduzindo a taxa de suicídio.
 
