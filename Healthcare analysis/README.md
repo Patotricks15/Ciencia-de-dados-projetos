@@ -8,6 +8,7 @@ We know that medical treatment is expensive, so we can take some health care to 
 It is important to know the group of patients that more spend your money in hospital, because the hospital can do price policy and know the most expensive patients (if they have the price cost).
 
 # Metodology
+**Exploratory Data Analysis and Machine Learning (PYTHON)**
 In here, were go make an exploratory data analysis and to compare four regression models (Linear regression, polynomial regression, random forest regressor and decision three regressor)
 
 # Conclusion
