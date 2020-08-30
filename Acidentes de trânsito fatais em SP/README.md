@@ -1,6 +1,6 @@
 # Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
 
-Link:https://tinyurl.com/y4jpk2es
+Link: https://tinyurl.com/y4jpk2es
 
 Dados: https://raw.githubusercontent.com/carlosfab/escola-data-science/master/datasets/acidentes_sp_clean.csv
 
