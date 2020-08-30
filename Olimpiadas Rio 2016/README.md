@@ -1,6 +1,6 @@
 # Os principais esportes dos jogos olímpicos de 2016: suas respectivas histórias e dados sobre seus atletas
 
-Link: https://tinyurl.com/y44j6xmp
+Link: https://tinyurl.com/y2baeuol
 
 ## Resumo
 Os Jogos Olímpicos datam de 776 a.C. tendo origem em Olímpia (Grécia antiga). No início, os jogos possuíam um caráter cultural e religioso, homenageando os deuses gregos, sendo Zeus o principal homenageado.
