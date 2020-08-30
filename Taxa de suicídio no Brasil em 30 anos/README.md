@@ -1,6 +1,6 @@
 # Setembro-amarelo: Análise da taxa de suicídio no Brasil (1985 - 2015)
 
-Link: https://tinyurl.com/yxq6x7y8
+Link: https://tinyurl.com/yypf63jb
 
 ## Resumo
 O debate acerca do suicídio vem crescendo há um tempo, sendo abordado de diferentes formas (livros, palestras, filmes, séries, músicas e etc.) Antes visto como um problema apenas pessoal, hoje o suicídio é visto também como um problema de saúde pública, pois a taxa de suicídio de um país pode (e deve) ser reduzida com políticas públicas de cuidados à saúde mental.
