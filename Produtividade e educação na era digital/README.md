@@ -1,5 +1,5 @@
 # Produtividade e educação na era dos aplicativos: uma investigação a partir da Análise Exploratória de Dados
-Link:
+Link: https://tinyurl.com/y3qe83rv
 
 # Resumo
 As tecnologias vêm moldando a forma como interagimos em diversas camadas das nossas vidas, e não é diferente na educação e na forma como lidamos com nossos afazeres. Os aparelhos digitais se encontram no limite entre heróis e vilões no que diz respeito à educação e produtividade.
