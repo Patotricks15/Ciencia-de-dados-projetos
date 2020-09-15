@@ -1,6 +1,6 @@
 # QUANDO AS TECNOLOGIAS ENCONTRAM AS POLÍTICAS PÚBLICAS: análise sobre a criminalidade em São Paulo a partir da plataforma Onde fui roubado?
 
-Link https://tinyurl.com/y9ymo3y4
+Link: https://tinyurl.com/yxlmzomt
 
 ## Resumo
 
