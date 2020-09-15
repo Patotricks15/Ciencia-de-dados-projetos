@@ -41,7 +41,7 @@ Link: https://tinyurl.com/y3spkayp
 
 __________________________________________________________________________________________________________________________________________________________________________________
 ### Produtividade e educação na era dos aplicativos
-Link: https://tinyurl.com/yy9zg7bz
+Link: https://tinyurl.com/yxc6pvwu
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### [TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)
