@@ -5,6 +5,8 @@ Link: https://tinyurl.com/y3qe83rv
 As tecnologias vêm moldando a forma como interagimos em diversas camadas das nossas vidas, e não é diferente na educação e na forma como lidamos com nossos afazeres. Os aparelhos digitais se encontram no limite entre heróis e vilões no que diz respeito à educação e produtividade.
 É necessário, portanto, que saibamos como utilizar essas tecnologias para que possamos aproveitá-las ao máximo, se aproveitando de suas vantagens e evoluindo o modo de ensinar e trabalhar.
 
+**Palavras-chave:** produtividade, educação, tecnologia, aplicativos
+
 # Objetivo
 Esse trabalho tem como objetivo examinar os aplicativos voltados para educação e produtividade, a fim de obter informações sobre esses produtos no mercado virtual. Assim, podemos pensar melhor sobre o futuro das tecnologias na educação e no trabalho.
 
