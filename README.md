@@ -2,7 +2,7 @@
 
 
 ## SOBRE MIM
-  Me chamo Patrick Gomes, sou graduando em Ciências Econômicas pela UFRRJ e iniciante em Ciência de Dados.
+  Me chamo Patrick Gomes de Oliveira, sou graduando em Ciências Econômicas pela UFRRJ e iniciante em Ciência de Dados.
   
   Clique aqui para visualizar meu currículo: https://tinyurl.com/y54bo6q4
 
