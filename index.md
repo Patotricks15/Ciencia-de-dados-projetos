@@ -1,11 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Patotricks15/Ciencia-de-dados-projetos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 # PROJETOS DE CIÊNCIA DE DADOS
 
 
@@ -21,36 +13,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## PROJETOS
 
-### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
-Link: https://tinyurl.com/y36zhsgo
-
+### [Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)](https://tinyurl.com/y36zhsgo)
 _________________________________________________________________________________________________________________________________________________________________________________
-### Quando as tecnologias encontram as políticas públicas:
-Link: https://tinyurl.com/yy6cmgtq
+### [Quando as tecnologias encontram as políticas públicas:](https://tinyurl.com/yy6cmgtq)
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-### Medidas e medalhas de atletas e países nos principais esportes dos Jogos Olímpicos no Rio 2016
-Link: https://tinyurl.com/y4mmb696
+### [Medidas e medalhas de atletas e países nos principais esportes dos Jogos Olímpicos no Rio 2016](https://tinyurl.com/y4mmb696)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### How can health care be good for your budget?
-Link: https://tinyurl.com/y5vb887a
+### [How can health care be good for your budget?](https://tinyurl.com/y5vb887a)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-### Análise da taxa de suicídio no Brasil (1985 - 2015)
-Link: https://tinyurl.com/y53xluc9
+### [Análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-### Sistema de recomendação de animes
-Link: https://tinyurl.com/y3spkayp
+### [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
 
 __________________________________________________________________________________________________________________________________________________________________________________
-### Produtividade e educação na era dos aplicativos
-Link: https://tinyurl.com/yxc6pvwu
+### [Produtividade e educação na era dos aplicativos](https://tinyurl.com/yxc6pvwu)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### [TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)
-Link: https://tinyurl.com/y3cg9azc
+### [Sua primeira visualização de dados usando countplot (Python - Seaborn)](https://tinyurl.com/y3cg9azc)
