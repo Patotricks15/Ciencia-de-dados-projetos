@@ -1,6 +1,6 @@
 # Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
 
-Link: https://tinyurl.com/y4jpk2es
+Notebook: https://tinyurl.com/y4jpk2es
 
 Dados: https://raw.githubusercontent.com/carlosfab/escola-data-science/master/datasets/acidentes_sp_clean.csv
 
@@ -10,10 +10,18 @@ A mobilidade urbana é um tema muito discutido e sempre atual e dentre os inúme
 **Palavras-chaves:** Acidentes, mobilidade, sociedade, trânsito
 
 
-## Metolodogia
+## Objetivo
 Esse projeto visa explorar os dados sobre acidentes fatais em SP desde 2015 até 2020, pois um dos problemas que o Estado de São Paulo lida é o elevado número de acidentes de trânsito. Aqui busco responder perguntas essenciais para que a sociedade possa reivindicar políticas públicas que reduzam o número de acidentes fatais, e para que os governantes possam nos oferecer tais políticas públicas.
 
+## Metodologia
 **Análise Exploratória de Dados (PYTHON)**
+
+Quando analisamos um problema social devemos fazer muitas perguntas, porque geralmente são problemas complexos que resultaram de inúmeros fatores e que afetam inúmeras pessoas. Então dado as limitações do nosso conjunto de dados, responderemos quatro perguntas:
+
+* QUEM?
+* ONDE?
+* QUANDO?
+* COMO?
 
 ## Conclusão
 Ter conhecimento do que acontece no nosso dia-a-dia é essencial não só para compreendermos nossa sociedade, mas para nos sentirmos inseridos nela. Analisar os fenômenos (por mais trágicos que sejam) através de dados, gráficos e modelos faz parte dessa compreensão e, por isso, os dados devem estar claros e os gráficos coesos, pois precisam ser entendidos e pra isso precisam ser entendíveis.
