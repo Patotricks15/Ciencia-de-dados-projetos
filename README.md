@@ -17,7 +17,7 @@
 Link: https://tinyurl.com/y36zhsgo
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Quando as tecnologias encontram as políticas públicas:
+### Quando as tecnologias encontram as políticas públicas: análise da violência urbana a partir de aplicativos móveis
 Link: https://tinyurl.com/yy6cmgtq
 
 _________________________________________________________________________________________________________________________________________________________________________________
