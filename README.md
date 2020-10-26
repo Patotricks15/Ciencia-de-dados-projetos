@@ -1,9 +1,7 @@
 # PROJETOS DE CIÊNCIA DE DADOS
 
 
-## SOBRE MIM 
-
-  O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas, visualizações de gráficos e algoritmos de aprendizado de máquinas
+  O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas, visualizações de gráficos e algoritmos de aprendizado de máquinas.
 
 
 ## PROJETOS
