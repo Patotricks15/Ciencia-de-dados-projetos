@@ -1,14 +1,9 @@
 # PROJETOS DE CIÊNCIA DE DADOS
 
 
-## SOBRE MIM
-  Me chamo Patrick Gomes de Oliveira, sou graduando em Ciências Econômicas pela UFRRJ e iniciante em Ciência de Dados.
-  
-  Clique aqui para visualizar meu currículo: https://tinyurl.com/y54bo6q4
+## SOBRE MIM 
 
-
-
-  O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas e visualizações de gráficos
+  O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas, visualizações de gráficos e algoritmos de aprendizado de máquinas
 
 
 ## PROJETOS
