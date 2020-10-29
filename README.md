@@ -33,6 +33,9 @@ ________________________________________________________________________________
 ### Sistema de recomendação de animes
 Link: https://tinyurl.com/y3spkayp
 
+### Gastos com saúde privada: uma abordagem microeconômica
+*Em andamento*
+
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Os principais esportes dos jogos olímpicos de 2016: suas respectivas histórias e dados sobre seus atletas
 Link: https://tinyurl.com/y4mmb696
