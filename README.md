@@ -12,6 +12,7 @@
 ### Econotícias
 Link: https://tinyurl.com/y5tk6r6b
 
+_________________________________________________________________________________________________________________________________________________________________________________
 ### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
 Link: https://tinyurl.com/y36zhsgo
 
