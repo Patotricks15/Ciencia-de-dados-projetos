@@ -22,7 +22,7 @@ Link: https://tinyurl.com/yy6cmgtq
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Química e Machine Learning: construindo um modelo para classificação de vinho tinto
-Link: https://tinyurl.com/y5tampyc
+Link: https://tinyurl.com/y2uycn7d
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)
