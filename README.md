@@ -45,8 +45,8 @@ ________________________________________________________________________________
 Link: https://tinyurl.com/y3spkayp
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Gastos com saúde privada: uma abordagem microeconômica
-*Em andamento*
+### Ciência de dados para filosofia e literatura
+Link: https://www.linkedin.com/pulse/ci%25C3%25AAncia-de-dados-para-filosofia-e-literatura-patrick-gomes/?trackingId=L7tw22hVQNa92xFrKK9vFg%3D%3D
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Os principais esportes dos jogos olímpicos de 2016: suas respectivas histórias e dados sobre seus atletas
