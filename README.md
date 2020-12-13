@@ -9,54 +9,41 @@
 
 ## PROJETOS
 
-### Econotícias
-Link: https://tinyurl.com/y5tk6r6b
+### [Econotícias](https://tinyurl.com/y5tk6r6b)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Webscraping para encontrar vagas em ciência de dados
-Link: https://tinyurl.com/y4jz2436
+### [Webscraping para encontrar vagas em ciência de dados](https://tinyurl.com/y4jz2436)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Web scraping para encontrar conjuntos de dados
-Link: https://tinyurl.com/y4nx8t8g
+### [Web scraping para encontrar conjuntos de dados](https://tinyurl.com/y4nx8t8g)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
-Link: https://tinyurl.com/y36zhsgo
+### [Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)](https://tinyurl.com/y36zhsgo)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Quando as tecnologias encontram as políticas públicas: análise da violência urbana a partir de aplicativos móveis
-Link: https://tinyurl.com/yy6cmgtq
+### [Quando as tecnologias encontram as políticas públicas: análise da violência urbana a partir de aplicativos móveis](https://tinyurl.com/yy6cmgtq)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Química e Machine Learning: construindo um modelo para classificação de vinho tinto
-Link: https://tinyurl.com/y2uycn7d
+### [Química e Machine Learning: construindo um modelo para classificação de vinho tinto](https://tinyurl.com/y2uycn7d)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)
-Link: https://tinyurl.com/y53xluc9
+### [Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Produtividade e educação na era dos aplicativos
-Link: https://tinyurl.com/yxc6pvwu
+### [Produtividade e educação na era dos aplicativos](https://tinyurl.com/yxc6pvwu)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning
-Link: https://tinyurl.com/y27j6ses
+### [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Sistema de recomendação de animes
-Link: https://tinyurl.com/y3spkayp
+### [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Ciência de dados para filosofia e literatura
-Link: https://tinyurl.com/yxsbck89
+### [Ciência de dados para filosofia e literatura](https://tinyurl.com/yxsbck89)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Os principais esportes dos jogos olímpicos de 2016: suas respectivas histórias e dados sobre seus atletas
-Link: https://tinyurl.com/y4mmb696
+### [Os principais esportes dos jogos olímpicos de 2016: suas respectivas histórias e dados sobre seus atletas](https://tinyurl.com/y4mmb696)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### [TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)
-Link: https://tinyurl.com/y3cg9azc
+### [[TUTORIAL] Sua primeira visualização de dados usando countplot (Python - Seaborn)](https://tinyurl.com/y3cg9azc)
 
