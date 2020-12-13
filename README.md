@@ -50,7 +50,7 @@ Link: https://tinyurl.com/y3spkayp
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Ciência de dados para filosofia e literatura
-Link: https://tinyurl.com/y3qp5uyu
+Link: https://tinyurl.com/yxsbck89
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Os principais esportes dos jogos olímpicos de 2016: suas respectivas histórias e dados sobre seus atletas
