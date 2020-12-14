@@ -42,7 +42,15 @@ ________________________________________________________________________________
 ### Sistemas de recomendação
 
 [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
+[EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt)
+[Medidas e medalhas dos atletas e países (Rio 2016)](https://tinyurl.com/yd348ytu)
+[[TUTORIAL] Your first and easy data visualization](https://tinyurl.com/ybff75s7)
 _________________________________________________________________________________________________________________________________________________________________________________
+### Notebooks e competições do Kaggle
+
+[Suicide rate in Brazil (Exploratory Data Analysis)](https://tinyurl.com/ycahgvnb)
+
+
 ### Tutoriais
 
 [Sua primeira visualização de dados usando countplot (Python - Seaborn)](https://tinyurl.com/y3cg9azc)
