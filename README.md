@@ -21,6 +21,8 @@
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Análise exploratória de dados
 
+[Como o mercado financeiro se comportou no Brasil durante a pandemia?](https://github.com/Patotricks15/Ciencia-de-dados-projetos/tree/master/Mercado%20financeiro%20na%20pandemia)
+
 [Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)](https://tinyurl.com/y36zhsgo)
 
 [Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9)
