@@ -56,8 +56,12 @@ ________________________________________________________________________________
 
 [[TUTORIAL] Your first and easy data visualization](https://tinyurl.com/ybff75s7)
 
+[How to plot multiple graphs using for loop (easy)](https://www.kaggle.com/patrickgomes/how-to-plot-multiple-graphs-using-for-loop-easy)
+
+[Web scraping to PANDAS](https://www.kaggle.com/patrickgomes/web-scraping-to-pandas-step-by-step-in-9-lines)
+
 _________________________________________________________________________________________________________________________________________________________________________________
-### Tutoriais
+### Tutoriais no Medium
 
 [Sua primeira visualização de dados usando countplot (Python - Seaborn)](https://tinyurl.com/y3cg9azc)
 
