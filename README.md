@@ -60,6 +60,8 @@ ________________________________________________________________________________
 
 [Web scraping to PANDAS](https://www.kaggle.com/patrickgomes/web-scraping-to-pandas-step-by-step-in-9-lines)
 
+[Analysis of pharmaceutical companies on stock exchange in 2020](https://www.kaggle.com/patrickgomes/the-race-for-a-covid-19-vaccine-eda)
+
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Tutoriais no Medium
 
