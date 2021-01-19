@@ -40,6 +40,10 @@ ________________________________________________________________________________
 
 [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
 
+Prevendo o risco de inadimplência (em desenvolvimento)
+
+Previsão de demanda da empresa (em breve)
+
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Sistemas de recomendação
 
@@ -47,6 +51,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Notebooks e competições do Kaggle
+[Analysis of pharmaceutical companies on the stock exchange in 2020](https://www.kaggle.com/patrickgomes/the-race-for-a-covid-19-vaccine-eda)
 
 [Suicide rate in Brazil (Exploratory Data Analysis)](https://tinyurl.com/ycahgvnb)
 
