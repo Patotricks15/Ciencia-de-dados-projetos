@@ -42,9 +42,9 @@ ________________________________________________________________________________
 
 [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
 
-Prevendo o risco de inadimplência (desafio da empresa Mutual) (em desenvolvimento)
+[Prevendo o risco de inadimplência (desafio da empresa Mutual)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_Mutual%20-%20Patrick%20Gomes.ipynb)
 
-Precificação de imóveis (desafio da empresa KeyCash)
+[Precificação de imóveis (desafio da empresa KeyCash)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_KeyCash.ipynb) + [resolução no streamlit](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/precificacao_streamlit.py)
 
 Previsão de demanda da empresa (em breve)
 
