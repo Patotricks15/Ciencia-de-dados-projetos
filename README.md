@@ -42,9 +42,15 @@ ________________________________________________________________________________
 
 [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
 
-Prevendo o risco de inadimplência (em desenvolvimento)
+Prevendo o risco de inadimplência (desafio da empresa Mutual) (em desenvolvimento)
+
+Precificação de imóveis (desafio da empresa KeyCash)
 
 Previsão de demanda da empresa (em breve)
+
+### Resolução de problemas de negócio:
+
+Financiamento de crédito para empresas de Ciência de Dados
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Sistemas de recomendação
@@ -53,9 +59,13 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Notebooks e competições do Kaggle
+Muitos desses são traduções para o inglês de notebooks que já desenvolvi anteriormente
+
 [Analysis of pharmaceutical companies on the stock exchange in 2020](https://www.kaggle.com/patrickgomes/the-race-for-a-covid-19-vaccine-eda)
 
 [Suicide rate in Brazil (Exploratory Data Analysis)](https://tinyurl.com/ycahgvnb)
+
+[Searching datasets in web with Python](https://www.kaggle.com/patrickgomes/searching-datasets-in-web-with-python)
 
 [EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt)
 
