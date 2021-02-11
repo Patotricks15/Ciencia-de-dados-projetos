@@ -47,10 +47,10 @@ ________________________________________________________________________________
 [Precificação de imóveis (desafio da empresa KeyCash)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_KeyCash.ipynb) + [resolução no streamlit](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/precificacao_streamlit.py)
 
 Previsão de demanda da empresa (em breve)
-
+_________________________________________________________________________________________________________________________________________________________________________________
 ### Resolução de problemas de negócio:
 
-Financiamento de crédito para empresas de Ciência de Dados
+[Antecipação de recebíveis para o setor de ciência de dados (desafio da empresa Captalys)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Resolu%C3%A7%C3%A3o%20do%20desafio%20Captalys%20(Patrick%20Gomes).pdf)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Sistemas de recomendação
