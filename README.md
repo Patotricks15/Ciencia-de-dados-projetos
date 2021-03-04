@@ -27,8 +27,7 @@ ________________________________________________________________________________
 
 [Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)](https://tinyurl.com/y36zhsgo)
 
-[Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9) + [In English]((https://tinyurl.com/ycahgvnb)
-)
+[Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9) + [In English](https://tinyurl.com/ycahgvnb)
 
 [Índice de Empreendedorismo Feminino: Brasil x América do Sul](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Empreendedorismo_feminino_no_Brasil_x_Am%C3%A9rica_do_Sul_uma_an%C3%A1lise_explorat%C3%B3ria_de_dados.ipynb)
 
