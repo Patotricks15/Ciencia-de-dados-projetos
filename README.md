@@ -21,11 +21,14 @@
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Análise exploratória de dados
 
+[Analysis of pharmaceutical companies on the stock exchange in 2020](https://www.kaggle.com/patrickgomes/the-race-for-a-covid-19-vaccine-eda)
+
 [Como o mercado financeiro se comportou no Brasil durante a pandemia?](https://github.com/Patotricks15/Ciencia-de-dados-projetos/tree/master/Mercado%20financeiro%20na%20pandemia)
 
 [Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)](https://tinyurl.com/y36zhsgo)
 
-[Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9)
+[Setembro Amarelo: análise da taxa de suicídio no Brasil (1985 - 2015)](https://tinyurl.com/y53xluc9) + [In English]((https://tinyurl.com/ycahgvnb)
+)
 
 [Índice de Empreendedorismo Feminino: Brasil x América do Sul](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Empreendedorismo_feminino_no_Brasil_x_Am%C3%A9rica_do_Sul_uma_an%C3%A1lise_explorat%C3%B3ria_de_dados.ipynb)
 
@@ -41,6 +44,8 @@ ________________________________________________________________________________
 [Química e Machine Learning: construindo um modelo para classificação de vinho tinto](https://tinyurl.com/y2uycn7d)
 
 [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
+
+[EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt)
 
 [Prevendo o risco de inadimplência (desafio da empresa Mutual - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_Mutual%20-%20Patrick%20Gomes.ipynb)
 
@@ -58,27 +63,12 @@ ________________________________________________________________________________
 [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-### Notebooks e competições do Kaggle
-Muitos desses são traduções para o inglês de notebooks que já desenvolvi anteriormente
-
-[Analysis of pharmaceutical companies on the stock exchange in 2020](https://www.kaggle.com/patrickgomes/the-race-for-a-covid-19-vaccine-eda)
-
-[Suicide rate in Brazil (Exploratory Data Analysis)](https://tinyurl.com/ycahgvnb)
+### Tutoriais
+[How to plot multiple graphs using for loop (easy)](https://www.kaggle.com/patrickgomes/how-to-plot-multiple-graphs-using-for-loop-easy)
 
 [Searching datasets in web with Python](https://www.kaggle.com/patrickgomes/searching-datasets-in-web-with-python)
 
-[EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt)
-
-[Medidas e medalhas dos atletas e países (Rio 2016)](https://tinyurl.com/yd348ytu)
-
-[[TUTORIAL] Your first and easy data visualization](https://tinyurl.com/ybff75s7)
-
-[How to plot multiple graphs using for loop (easy)](https://www.kaggle.com/patrickgomes/how-to-plot-multiple-graphs-using-for-loop-easy)
-
 [Web scraping to PANDAS](https://www.kaggle.com/patrickgomes/web-scraping-to-pandas-step-by-step-in-9-lines)
 
-_________________________________________________________________________________________________________________________________________________________________________________
-### Tutoriais no Medium
-
-[Sua primeira visualização de dados usando countplot (Python - Seaborn)](https://tinyurl.com/y3cg9azc)
+[Sua primeira visualização de dados usando countplot (Python - Seaborn)](https://tinyurl.com/y3cg9azc) + [In English](https://tinyurl.com/ybff75s7)
 
