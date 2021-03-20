@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
 
-[EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt)
+[EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt) (tá ruinzinho, vou melhorar em breve)
 
 [Prevendo o risco de inadimplência (desafio da empresa Mutual - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_Mutual%20-%20Patrick%20Gomes.ipynb)
 
@@ -54,7 +54,7 @@ Previsão de demanda da empresa (em breve)
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Resolução de problemas de negócio:
 
-[Antecipação de recebíveis para o setor de ciência de dados (desafio da empresa Captalys - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Resolu%C3%A7%C3%A3o%20do%20desafio%20Captalys%20(Patrick%20Gomes).pdf)
+[Financiamento de crédito para o setor de ciência de dados (desafio da empresa Captalys - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Resolu%C3%A7%C3%A3o%20do%20desafio%20Captalys%20(Patrick%20Gomes).pdf)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Sistemas de recomendação
