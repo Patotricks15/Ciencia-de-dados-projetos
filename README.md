@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/banner.png" width="120%" title="hover text">
+  <img src="https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/completion.png" width="70%" title="hover text">
 </p>
 
 # PROJETOS DE CIÊNCIA DE DADOS
