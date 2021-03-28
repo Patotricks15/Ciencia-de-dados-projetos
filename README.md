@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/completion.png" width="70%" title="hover text">
-</p>
-
 # PROJETOS DE CIÊNCIA DE DADOS
 
   O objetivo deste repositório é reunir investigações estatísticas para que seja mais fácil e a entender problemas do mundo real, através de inferências estatísticas, visualizações de gráficos, algoritmos de aprendizado de máquinas e extração de dados da web.
