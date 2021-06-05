@@ -7,3 +7,6 @@ This task is possible and low cost using Machine Learning with a simple model. T
 Mr. Jhon, CEO of a social network, and hired you to applied a Machine Learning algorithm to predict if an users will go to click or not in the Ad that show in their feed
 
 The business strategy is a massive investment in Ads by social network and their investors. Get predict the probability of click in an Ad will go help the decision makers choose the best decisions.
+
+## Web-app
+https://share.streamlit.io/patotricks15/ciencia-de-dados-projetos/predict_clicks/click_app.py
