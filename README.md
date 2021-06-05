@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 [Outubro rosa e ciência de dados: diagnosticando câncer de mama através de algoritmos de Machine Learning](https://tinyurl.com/y27j6ses)
 
-[EDA + Machine Learning + Health care](https://tinyurl.com/ycbtkyzt) (tá ruinzinho, vou melhorar em breve)
+[Hospital costs pricing](https://tinyurl.com/ycbtkyzt) (tá ruinzinho, vou melhorar em breve)
 
 [Prevendo o risco de inadimplência (desafio da empresa Mutual - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_Mutual%20-%20Patrick%20Gomes.ipynb)
 
