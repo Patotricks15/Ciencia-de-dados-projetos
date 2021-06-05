@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 [Precificação de imóveis (desafio da empresa KeyCash - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_KeyCash.ipynb) + [resolução no streamlit](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/precificacao_streamlit.py)
 
-Previsão de demanda da empresa (em breve)
+[Predicting clicks on Ad](https://tinyurl.com/j8f9tdvf)
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Resolução de problemas de negócio:
 
