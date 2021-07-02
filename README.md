@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 [Financiamento de crédito para o setor de ciência de dados (desafio da empresa Captalys - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Resolu%C3%A7%C3%A3o%20do%20desafio%20Captalys%20(Patrick%20Gomes).pdf)
 
-Printer Ltda.
+[Printer Ltda](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Printer%20Ltda.pdf)
 
 Smarter Phones Ltda.
 
