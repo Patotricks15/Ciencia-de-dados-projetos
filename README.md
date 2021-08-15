@@ -60,6 +60,8 @@ ________________________________________________________________________________
 
 [Quantidade ótima para o Even Break da Printer Ltda](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Printer%20Ltda.pdf)
 
+[Download automatizado de fotos de casa para a House Ltda](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Download%20automatizado%20de%20fotos%20de%20casa%20para%20a%20House%20Ltda.docx)
+
 Smarter Phones Ltda.
 
 Panelas Ltda.
