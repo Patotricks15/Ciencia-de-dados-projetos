@@ -75,6 +75,8 @@ ________________________________________________________________________________
 
 [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
 
+[Sistema de recomendação básico](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Sistema_de_recomenda%C3%A7%C3%A3o_b%C3%A1sico.ipynb)
+
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Tutoriais
 [How to plot multiple graphs using for loop (easy)](https://www.kaggle.com/patrickgomes/how-to-plot-multiple-graphs-using-for-loop-easy)
