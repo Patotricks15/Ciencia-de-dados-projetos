@@ -75,9 +75,12 @@ Cheiro Bom Ltda.
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Sistemas de recomendação
 
+[Sistema de recomendação - Brawlhalla](https://github.com/Patotricks15/Brawlhalla_recomendador)
+
 [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
 
 [Sistema de recomendação básico](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Sistema_de_recomenda%C3%A7%C3%A3o_b%C3%A1sico.ipynb)
+
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Tutoriais
