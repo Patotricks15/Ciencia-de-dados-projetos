@@ -54,6 +54,13 @@ ________________________________________________________________________________
 
 [Predicting clicks on Ad](https://tinyurl.com/j8f9tdvf)
 _________________________________________________________________________________________________________________________________________________________________________________
+
+### NLP
+
+[Predicting SPAM](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Classificador_de_SPAM.ipynb)
+
+[Predicting 5 or 1 stars in review](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Reviews_Yelp.ipynb)
+_________________________________________________________________________________________________________________________________________________________________________________
 ### Resolução de problemas de negócio:
 
 [Financiamento de crédito para o setor de ciência de dados (desafio da empresa Captalys - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Resolu%C3%A7%C3%A3o%20do%20desafio%20Captalys%20(Patrick%20Gomes).pdf)
