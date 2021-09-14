@@ -60,6 +60,8 @@ ________________________________________________________________________________
 [Predicting SPAM](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Classificador_de_SPAM.ipynb)
 
 [Predicting 5 or 1 stars in review](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Reviews_Yelp.ipynb)
+
+[Relevância dos reviews](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Relev%C3%A2ncia_reviews_yelp.ipynb)
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Resolução de problemas de negócio:
 
