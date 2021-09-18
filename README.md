@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 [Sistema de recomendação - Brawlhalla](https://github.com/Patotricks15/Brawlhalla_recomendador)
 
-[Sistema derecomendação - Jojo's Bizarre Adventure](https://github.com/Patotricks15/jojo_stand_similarity)
+[Sistema de recomendação - Jojo's Bizarre Adventure](https://github.com/Patotricks15/jojo_stand_similarity)
 
 [Sistema de recomendação de animes](https://tinyurl.com/y3spkayp)
 
