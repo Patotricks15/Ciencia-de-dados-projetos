@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 [Precificação de imóveis (desafio da empresa KeyCash - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_KeyCash.ipynb) + [resolução no streamlit](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/precificacao_streamlit.py)
 
-[Hospital costs pricing](https://tinyurl.com/ycbtkyzt) (tá ruinzinho, vou melhorar em breve)
+[Hospital costs pricing](https://tinyurl.com/ycbtkyzt)
 
 [Prevendo o risco de inadimplência (desafio da empresa Mutual - aprovado)](https://github.com/Patotricks15/Ciencia-de-dados-projetos/blob/master/Desafio_Mutual%20-%20Patrick%20Gomes.ipynb)
 
