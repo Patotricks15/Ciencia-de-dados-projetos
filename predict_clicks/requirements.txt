@@ -68,7 +68,7 @@ six==1.15.0
 sklearn==0.0
 smmap==4.0.0
 soupsieve==2.2.1
-streamlit==0.80.0
+streamlit==1.11.1
 terminado==0.9.4
 testpath==0.4.4
 threadpoolctl==2.1.0
