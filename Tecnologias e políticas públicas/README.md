@@ -1,28 +1,23 @@
-# QUANDO AS TECNOLOGIAS ENCONTRAM AS POLÍTICAS PÚBLICAS: análise sobre a criminalidade em São Paulo a partir da plataforma Onde fui roubado?
-
+# WHEN TECHNOLOGIES MEET PUBLIC POLICIES: an analysis of crime in São Paulo using the "Onde fui roubado?" platform
 Link: https://tinyurl.com/yxlmzomt
 
-## Resumo
+## Abstract
+In an era of connectivity, the government must constantly update itself and inform its institutions and citizens. The government needs to be adept at handling social changes brought about by technological innovations, and take advantage of these innovations to facilitate societal coexistence. The topic addressed here was urban violence, and this should be leveraged with the ultimate goal of making public policies more efficient and reaching even the most inaccessible places.
 
-Em tempos de conexão, o governo deve se atualizar constantemente e informar suas instituições e seus cidadãos. O governo precisa estar apto às mudanças sociais provocadas pelas inovações tecnológicas, e se aproveitar dessas inovações para facilitar o convívio em sociedade. O tema aqui tratado foi sobre violência urbana, e isso deve ser aproveitado com o objetivo último de tornar as políticas públicas mais eficientes e levá-las até os locais de mais difícil acesso. 
+## Objective
+The purpose of this study is to show how technologies can assist governments in understanding how their social structures function, and help the population to prevent crime by giving them an idea of how dangerous a certain location can be.
 
-## Objetivo
+## Methodology
+Using the "Onde fui roubado?" platform, we will analyze crime in São Paulo (with data up until early 2018). Guiding our analysis makes us more precise when studying a problem, therefore, I seek to answer the following questions:
 
-O objetivo desse trabalho é mostrar como as tecnologias são capazes de auxiliar os governos a entender como funcionam suas estruturas sociais, e ajudar a população a se previnir, tendo uma ideia de quão perigoso pode ser um determinado local.
+## Who was robbed?
+- What was stolen?
+- Where was it stolen?
+- When was it stolen?
 
-## Metodologia
+## Conclusion
+The government must constantly update itself and inform its institutions and citizens. The government needs to be adept at handling social changes brought about by technological innovations, and take advantage of these innovations to facilitate societal coexistence. The topic addressed here was urban violence, but innovations are arriving in various areas (communication, employment, sanitation, culture, leisure, urban mobility, etc.) and this should be leveraged with the ultimate goal of making public policies more efficient and reaching even the most inaccessible places.
 
- Utilizando a plataforma Onde fui roubado?, analisaremos a criminalidade em São Paulo (com dados até o início de 2018). Nortear nossa análise nos torna mais precisos na hora de estudar um problema, portanto, busco responder as seguintes perguntas:
- 
-* Quem foi roubado?
-* O que foi roubado?
-* Onde foi roubado?
-* Quando foi roubado?
+Society can take advantage of this if there are partnerships dedicated to informing citizens about what is happening in their territory and within society itself. Informing about violence is crucial for those who want to reduce these numbers, and being informed is important for those who want to avoid being robbed. Therefore, it is in the citizen's interest to be informed, and it should be the obligation of the government and its institutions to inform.
 
-## Conclusão
-
-O governo deve se atualizar constantemente e informar suas instituições e seus cidadãos. O governo precisa estar apto às mudanças sociais provocadas pelas inovações tecnológicas, e se aproveitar dessas inovações para facilitar o convívio em sociedade. O tema aqui tratado foi sobre violência urbana, mas as inovações estão chegando em diversas áreas (comunicação, emprego, saneamento, cultura, lazer, mobilidade urbana, etc.) e isso deve ser aproveitado com o objetivo último de tornar as políticas públicas mais eficientes e levá-las até os locais de mais difícil acesso.
-
-A sociedade pode levar vantagem disso se houverem parcerias que se dediquem à informar os cidadãos sobre o que está acontecendo em seu território e no seio da própria sociedade. Informar sobre a violência é algo crucial para quem deseja reduzir esses números, e ser informado é importante para quem deseja evitar ser assaltado. Então é de interesse do cidadão ser informado, e deve ser obrigação do governo e de suas instituições, informar.
-
-*“Inovação não é feita apenas usando tecnologia. A tecnologia pode ser um meio, mas ver e transformar um jeito de fazer algo, mudar a forma como encaramos desafios, tudo isso pode ser visto e feito de forma inovadora.”* - Gustavo Maia
+*"Innovation is not just about using technology. Technology can be a means, but seeing and transforming a way of doing something, changing the way we face challenges, all this can be seen and done in an innovative way."* - Gustavo Maia
