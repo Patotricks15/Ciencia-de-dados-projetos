@@ -10,7 +10,7 @@ The purpose of this study is to show how technologies can assist governments in 
 ## Methodology
 Using the "Onde fui roubado?" platform, we will analyze crime in São Paulo (with data up until early 2018). Guiding our analysis makes us more precise when studying a problem, therefore, I seek to answer the following questions:
 
-## Who was robbed?
+- Who was robbed?
 - What was stolen?
 - Where was it stolen?
 - When was it stolen?
