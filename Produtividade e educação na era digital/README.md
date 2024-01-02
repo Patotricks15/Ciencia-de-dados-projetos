@@ -1,20 +1,21 @@
-# Produtividade e educação na era dos aplicativos: uma investigação a partir da Análise Exploratória de Dados
+# Productivity and Education in the Era of Apps: An Investigation through Exploratory Data Analysis
 Link: https://tinyurl.com/y3qe83rv
 
-# Resumo
-As tecnologias vêm moldando a forma como interagimos em diversas camadas das nossas vidas, e não é diferente na educação e na forma como lidamos com nossos afazeres. Os aparelhos digitais se encontram no limite entre heróis e vilões no que diz respeito à educação e produtividade.
-É necessário, portanto, que saibamos como utilizar essas tecnologias para que possamos aproveitá-las ao máximo, se aproveitando de suas vantagens e evoluindo o modo de ensinar e trabalhar.
+## Abstract
+Technologies have been shaping the way we interact in various layers of our lives, and it is no different in education and how we manage our tasks. Digital devices are on the cusp of being both heroes and villains when it comes to education and productivity.
+Therefore, it is necessary to understand how to use these technologies so that we can take full advantage of them, leveraging their benefits and evolving the way of teaching and working.
 
-**Palavras-chave:** produtividade, educação, tecnologia, aplicativos
+Keywords: productivity, education, technology, apps
 
-# Objetivo
-Esse trabalho tem como objetivo examinar os aplicativos voltados para educação e produtividade, a fim de obter informações sobre esses produtos no mercado virtual. Assim, podemos pensar melhor sobre o futuro das tecnologias na educação e no trabalho.
+## Objective
+This study aims to examine apps focused on education and productivity, in order to gather information about these products in the virtual market. This way, we can better contemplate the future of technologies in education and work.
 
-# Metodologia
-**Análise Exploratória de Dados [PYTHON]**
+## Methodology
+Exploratory Data Analysis [PYTHON]
 
-Serão selecionados apenas os aplicativos da categoria "EDUCATION" e "PRODUCTIVITY", e então a análise exploratória de dados será feita. Analisando principalmente a quantidade de aplicativos, média de avaliação e quantidade de avaliação.
+Only apps from the "EDUCATION" and "PRODUCTIVITY" categories will be selected, followed by an exploratory data analysis. The main focus will be on the number of apps, average ratings, and the number of reviews.
 
-# Conclusão
-Os aplicativos de produtividade estão presentes na loja virtual em muito mais quantidade do que os de educação, isso acontece porque a produtividade é um aspecto muito mais amplo. Ela vai desde a educação, até a vida no trabalho, passando por aspectos da produtividade no dia-a-dia. Enquanto a educação é muito focada naquilo que ela se propõe a fazer.
-A sociedade vem se moldando conforme as tecnologias evoluem, e a educação não pode ficar pra trás. A presença de aplicativos de educação e produtividade mostram que as tecnologias podem facilitar nossas vidas nos estudos e trabalhos, fazendo com que aproveitemos cada vez mais nosso tempo, nossas informações e nossas capacidades cognitivas.
+## Conclusion
+Productivity apps are present in the virtual store in much larger quantities than education apps, which is due to productivity being a much broader aspect. It spans from education to work life, covering aspects of day-to-day productivity. Meanwhile, education is very focused on what it proposes to do.
+Society has been shaping itself as technologies evolve, and education cannot be left behind. The presence of education and productivity apps shows that technologies can facilitate our lives in studies and work, allowing us to increasingly optimize our time, our information, and our cognitive abilities.
+
