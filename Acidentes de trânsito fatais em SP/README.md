@@ -1,31 +1,30 @@
-# Acidentes de trânsito fatais no Estado de São Paulo (2015-2020)
+# Fatal traffic accidents in the State of São Paulo (2015-2020)
 
-Notebook: https://tinyurl.com/y4jpk2es
+Notebook: [https://tinyurl.com/y4jpk2es](https://tinyurl.com/y4jpk2es)
 
-Dados: https://raw.githubusercontent.com/carlosfab/escola-data-science/master/datasets/acidentes_sp_clean.csv
+Data: [https://raw.githubusercontent.com/carlosfab/escola-data-science/master/datasets/acidentes_sp_clean.csv](https://raw.githubusercontent.com/carlosfab/escola-data-science/master/datasets/acidentes_sp_clean.csv)
 
-## Resumo
-A mobilidade urbana é um tema muito discutido e sempre atual e dentre os inúmeros desafios sociais e culturais enfrentados pela sociedade brasileira, os acidentes de trânsito são uns dos mais significativos, uma vez que coloca em risco a vida do condutor do veículo, e também de pedestres e passageiros, o que aumenta radicalcamente o número de vítimas. Portanto, é fundamental que o poder público e a sociedade civil estejam atentos para as causas e consequências dessa triste realidade.
+## Summary
+Urban mobility is a much-discussed and always current topic, and among the numerous social and cultural challenges faced by Brazilian society, traffic accidents are one of the most significant, as they put the lives of vehicle drivers, as well as pedestrians and passengers, at risk, drastically increasing the number of victims. Therefore, it is essential that public authorities and civil society are attentive to the causes and consequences of this sad reality.
 
-**Palavras-chaves:** Acidentes, mobilidade, sociedade, trânsito
+**Keywords:** Accidents, mobility, society, traffic
 
+## Objective
+This project aims to explore data on fatal accidents in SP from 2015 to 2020, as one of the problems that the State of São Paulo deals with is the high number of traffic accidents. Here I seek to answer essential questions so that society can demand public policies that reduce the number of fatal accidents and so that the authorities can offer us such public policies.
 
-## Objetivo
-Esse projeto visa explorar os dados sobre acidentes fatais em SP desde 2015 até 2020, pois um dos problemas que o Estado de São Paulo lida é o elevado número de acidentes de trânsito. Aqui busco responder perguntas essenciais para que a sociedade possa reivindicar políticas públicas que reduzam o número de acidentes fatais, e para que os governantes possam nos oferecer tais políticas públicas.
+## Methodology
+**Exploratory Data Analysis (PYTHON)**
 
-## Metodologia
-**Análise Exploratória de Dados (PYTHON)**
+When analyzing a social problem, we must ask many questions because they are usually complex problems that result from numerous factors and affect many people. Given the limitations of our dataset, we will answer four questions:
 
-Quando analisamos um problema social devemos fazer muitas perguntas, porque geralmente são problemas complexos que resultaram de inúmeros fatores e que afetam inúmeras pessoas. Então dado as limitações do nosso conjunto de dados, responderemos quatro perguntas:
+* WHO?
+* WHERE?
+* WHEN?
+* HOW?
 
-* QUEM?
-* ONDE?
-* QUANDO?
-* COMO?
+## Conclusion
+Knowing what happens in our daily lives is essential not only to understand our society but also to feel part of it. Analyzing phenomena (no matter how tragic they are) through data, graphs, and models is part of this understanding, and therefore, the data must be clear, and the graphs must be cohesive, as they need to be understood and for that, they need to be comprehensible.
 
-## Conclusão
-Ter conhecimento do que acontece no nosso dia-a-dia é essencial não só para compreendermos nossa sociedade, mas para nos sentirmos inseridos nela. Analisar os fenômenos (por mais trágicos que sejam) através de dados, gráficos e modelos faz parte dessa compreensão e, por isso, os dados devem estar claros e os gráficos coesos, pois precisam ser entendidos e pra isso precisam ser entendíveis.
+It is the duty of citizens and public bodies (especially the latter) to raise awareness that traffic must be conducted responsibly. Traffic education is not only acquired in driving schools but also in a community aware of the seriousness of the matter.
 
-Cabe aos cidadãos e aos órgãos públicos (mais a esses) o dever te conscientizar que o trânsito deve ser conduzido com responsabilidade. Porque educação no trânsito não se adquire apenas nas auto escolas, mas também em uma comunidade ciente da necessidade da seriedade do assunto.
-
-“Se houver uma falha humana, tanto a rodovia, quanto o veículo, eles estão ali para auxiliar e mitigar a lesão fatal ao ocupante. Se nós não trabalharmos a questão da educação, do comportamento da sociedade, nós vamos continuar a ter taxas elevadas de mortes no trânsito”, afirma José Aurélio Ramalho.
+“If there is a human failure, both the road and the vehicle are there to assist and mitigate the fatal injury to the occupant. If we do not work on the issue of education and the behavior of society, we will continue to have high rates of traffic deaths,” says José Aurélio Ramalho.
