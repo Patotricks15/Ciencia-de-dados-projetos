@@ -20,6 +20,8 @@ The objective of this repository is to bring together statistical investigations
 
 ### Exploratory data analysis
 
+[How much GDP per capita can a country generate for each kiloton of CO₂ spent?](https://github.com/Patotricks15/co2_efficiency_analysis/tree/main)
+
 [Analysis of pharmaceutical companies on the stock exchange in 2020](https://www.kaggle.com/patrickgomes/the-race-for-a-covid-19-vaccine-eda)
 
 [How did the financial market behave in Brazil during the pandemic?](https://github.com/Patotricks15/Ciencia-de-dados-projetos/tree/master/Mercado%20financeiro%20na%20pandemia)
